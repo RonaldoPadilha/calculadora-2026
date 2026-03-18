@@ -29,7 +29,7 @@ while (true == true)
     Console.WriteLine("3 - Multiplicar");
     Console.WriteLine("4 - Dividir");
     Console.WriteLine("5 - Tabuada");
-    Console.WriteLine("5 - Histórico de Operações");
+    Console.WriteLine("6 - Histórico de Operações");
     Console.WriteLine("S - Saír");
     Console.WriteLine("--------------------------");
     Console.Write("Escolha uma opção válida: ");
